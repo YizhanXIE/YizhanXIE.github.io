@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://YizhanXIE.github.io/al-folio/sitemap.xml
